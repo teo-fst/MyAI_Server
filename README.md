@@ -6,7 +6,7 @@ Guide to structure a personal AI server full opensource and with agent to help i
         * Sistema operativo: Quale distribuzione Linux, versione di Windows o macOS utilizzi?
         * CPU: Modello esatto e numero di core (es. AMD Ryzen 9 5900X, 12 core).
         * RAM: Quanti GB totali sono installati?
-        * GPU: Fondamentale per le prestazioni. Hai una scheda video dedicata? Se sì, indica il modello esatto e quanta VRA-M (memoria video) possiede (es. NVIDIA RTX 3060 12GB). Se non hai una GPU, specifica se intendi procedere solo con CPU.
+        * GPU: Fondamentale per le prestazioni. Hai una scheda video dedicata? Se sì, indica il modello esatto e quanta VRAM (memoria video) possiede (es. NVIDIA RTX 3060 12GB). Se non hai una GPU, specifica se intendi procedere solo con CPU.
         * Storage: Spazio libero su disco e tipologia (SSD, NVMe o HDD). I modelli occupano decine di GB e la velocità di lettura è critica.
     
     2. Sulla rete e accessibilità
