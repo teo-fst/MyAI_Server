@@ -257,5 +257,3 @@ http://[IP-TAILSCALE]:3000
 ---
 
 ## 🏁 Fine della guida
-* creare **versione docs/ + README minimal**
-* oppure trasformarlo in **template repo pronto al clone**
